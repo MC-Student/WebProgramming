@@ -1,2 +1,2 @@
 # WebProgramming
-Coursework for Web Programming class
+Coursework/one final project for Web Programming class
